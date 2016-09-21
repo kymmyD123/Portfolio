@@ -183,3 +183,63 @@ header {
 }
 
 
+/*contact.html*/
+
+.contact {
+    background: #DBDBDB;
+    width:60%;
+    margin: 0 auto;
+    min-height: 700px;
+}
+
+form {
+    width: 850px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+input {
+    outline: none;
+}
+
+.input-text {
+    border: none;
+    color: #f9f9f9;
+    padding-left: 50px;
+    box-sizing: border-box;
+}
+
+#name {
+    min-width: 400px;
+    height: 60px;
+    background: #d2d2d2;
+    float: left;
+    margin-top: 50px;
+}
+
+#mail {
+    min-width: 400px;
+    height: 60px;
+    background: #d2d2d2;
+    float: right;
+    margin-top: 50px;
+}
+
+#letter {
+    min-width: 845px;
+    min-height: 500px;
+    background: #d2d2d2;
+    margin-top: 50px;
+    float: left;
+}
+
+#submit-button {
+    color: #A9ACB7;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background: #d2d2d2;
+    border: none;
+    height: 60px;
+    width: 100px;
+}
+
